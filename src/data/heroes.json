@@ -249,6 +249,222 @@
 		"id": 42,
 		"name": "Anti-Mage",
 		"image": "./heroes/Anti-Mage.png",
-		"attr": "strength"
+		"attr": "agi"
+	},
+	{
+		"id": 43,
+		"name": "Arc Warden",
+		"image": "./heroes/Arc Warden.png",
+		"attr": "agi"
+	},
+	{
+		"id": 44,
+		"name": "Bloodseeker",
+		"image": "./heroes/Bloodseeker.png",
+		"attr": "agi"
+	},
+	{
+		"id": 45,
+		"name": "Bounty Hunter",
+		"image": "./heroes/Bounty Hunter.png",
+		"attr": "agi"
+	},
+	{
+		"id": 46,
+		"name": "Broodmother",
+		"image": "./heroes/Broodmother.png",
+		"attr": "agi"
+	},
+	{
+		"id": 47,
+		"name": "Clinkz",
+		"image": "./heroes/Clinkz.png",
+		"attr": "agi"
+	},
+	{
+		"id": 48,
+		"name": "Drow Ranger",
+		"image": "./heroes/Drow Ranger.png",
+		"attr": "agi"
+	},
+	{
+		"id": 49,
+		"name": "Ember Spirit",
+		"image": "./heroes/Ember Spirit.png",
+		"attr": "agi"
+	},
+	{
+		"id": 50,
+		"name": "Faceless Void",
+		"image": "./heroes/Faceless Void.png",
+		"attr": "agi"
+	},
+	{
+		"id": 51,
+		"name": "Gyrocopter",
+		"image": "./heroes/Gyrocopter.png",
+		"attr": "agi"
+	},
+	{
+		"id": 52,
+		"name": "Hoodwink",
+		"image": "./heroes/Hoodwink.png",
+		"attr": "agi"
+	},
+	{
+		"id": 53,
+		"name": "Juggernaut",
+		"image": "./heroes/Juggernaut.png",
+		"attr": "agi"
+	},
+	{
+		"id": 54,
+		"name": "Lone Druid",
+		"image": "./heroes/Lone Druid.png",
+		"attr": "agi"
+	},
+	{
+		"id": 55,
+		"name": "Luna",
+		"image": "./heroes/Luna.png",
+		"attr": "agi"
+	},
+	{
+		"id": 56,
+		"name": "Medusa",
+		"image": "./heroes/Medusa.png",
+		"attr": "agi"
+	},
+	{
+		"id": 57,
+		"name": "Meepo",
+		"image": "./heroes/Meepo.png",
+		"attr": "agi"
+	},
+	{
+		"id": 58,
+		"name": "Mirana",
+		"image": "./heroes/Mirana.png",
+		"attr": "agi"
+	},
+	{
+		"id": 59,
+		"name": "Monkey King",
+		"image": "./heroes/Monkey King.png",
+		"attr": "agi"
+	},
+	{
+		"id": 60,
+		"name": "Morphling",
+		"image": "./heroes/Morphling.png",
+		"attr": "agi"
+	},
+	{
+		"id": 61,
+		"name": "Naga Siren",
+		"image": "./heroes/Naga Siren.png",
+		"attr": "agi"
+	},
+	{
+		"id": 62,
+		"name": "Pangolier",
+		"image": "./heroes/Pangolier.png",
+		"attr": "agi"
+	},
+	{
+		"id": 63,
+		"name": "Phantom Assassin",
+		"image": "./heroes/Phantom Assassin.png",
+		"attr": "agi"
+	},
+	{
+		"id": 64,
+		"name": "Phantom Lancer",
+		"image": "./heroes/Phantom Lancer.png",
+		"attr": "agi"
+	},
+	{
+		"id": 65,
+		"name": "Razor",
+		"image": "./heroes/Razor.png",
+		"attr": "agi"
+	},
+	{
+		"id": 66,
+		"name": "Riki",
+		"image": "./heroes/Riki.png",
+		"attr": "agi"
+	},
+	{
+		"id": 67,
+		"name": "Shadow Fiend",
+		"image": "./heroes/Shadow Fiend.png",
+		"attr": "agi"
+	},
+	{
+		"id": 68,
+		"name": "Slark",
+		"image": "./heroes/Slark.png",
+		"attr": "agi"
+	},
+	{
+		"id": 69,
+		"name": "Sniper",
+		"image": "./heroes/Sniper.png",
+		"attr": "agi"
+	},
+	{
+		"id": 70,
+		"name": "Spectre",
+		"image": "./heroes/Spectre.png",
+		"attr": "agi"
+	},
+	{
+		"id": 71,
+		"name": "Templar Assassin",
+		"image": "./heroes/Templar Assassin.png",
+		"attr": "agi"
+	},
+	{
+		"id": 72,
+		"name": "Terrorblade",
+		"image": "./heroes/Terrorblade.png",
+		"attr": "agi"
+	},
+	{
+		"id": 73,
+		"name": "Troll Warlord",
+		"image": "./heroes/Troll Warlord.png",
+		"attr": "agi"
+	},
+	{
+		"id": 74,
+		"name": "Ursa",
+		"image": "./heroes/Ursa.png",
+		"attr": "agi"
+	},
+	{
+		"id": 75,
+		"name": "Vengeful Spirit",
+		"image": "./heroes/Vengeful Spirit.png",
+		"attr": "agi"
+	},
+	{
+		"id": 76,
+		"name": "Venomancer",
+		"image": "./heroes/Venomancer.png",
+		"attr": "agi"
+	},
+	{
+		"id": 77,
+		"name": "Viper",
+		"image": "./heroes/Viper.png",
+		"attr": "agi"
+	},
+	{
+		"id": 78,
+		"name": "Weaver",
+		"image": "./heroes/Weaver.png",
+		"attr": "agi"
 	}
 ]

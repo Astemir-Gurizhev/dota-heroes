@@ -38,10 +38,10 @@ body {
 	padding-inline: 20px;
 }
 .icon {
-	transition: 0.3s;
+	transition: 0.15s;
 }
 .icon:hover {
-	transform: scale(1.15);
+	transform: scale(1.4);
 }
 input,
 button,

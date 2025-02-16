@@ -1,0 +1,11 @@
+.heroes {
+	display: flex;
+	justify-content: space-between;
+	gap: 40px;
+}
+.heroesStrength {
+	display: flex;
+	align-items: center;
+	flex-wrap: wrap;
+	gap: 10px;
+}
