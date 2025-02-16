@@ -1,3 +1,21 @@
 .filter {
 	padding: 18px;
+	display: flex;
+	align-items: center;
+	gap: 40px;
+}
+.filterAtr {
+	display: inline-flex;
+	gap: 10px;
+	align-items: center;
+	color: #fff;
+	border-radius: 10px;
+	background: rgba(0, 0, 0, 0.3);
+	padding: 10px;
+}
+.filter img {
+	width: 35px;
+}
+.activeIcon {
+	transform: scale(1.3);
 }
