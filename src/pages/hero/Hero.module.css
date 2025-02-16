@@ -1,0 +1,45 @@
+.hero {
+	position: relative;
+	max-width: 800px;
+	margin: 0 auto;
+	color: white;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	gap: 30px;
+}
+.back {
+	position: absolute;
+	left: 0;
+	top: 0;
+	transition: 0.2s;
+	font-size: 25px;
+	color: white;
+}
+.back:hover {
+	transform: scale(1.2);
+}
+.hero h2 {
+	text-align: center;
+	font-size: 30px;
+}
+.description {
+	text-align: center;
+	font-size: 20px;
+}
+.red {
+	color: red;
+	font-weight: bold;
+	font-size: 18px;
+}
+.green {
+	color: green;
+	font-weight: bold;
+	font-size: 18px;
+}
+.blue {
+	color: rgb(0, 119, 255);
+	font-weight: bold;
+	font-size: 18px;
+}
