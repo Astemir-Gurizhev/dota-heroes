@@ -1,0 +1,254 @@
+[
+	{
+		"id": 1,
+		"name": "Abaddon",
+		"image": "./heroes/abaddon.png",
+		"attr": "strength"
+	},
+	{
+		"id": 2,
+		"name": "Alchemist",
+		"image": "./heroes/alchemist.png",
+		"attr": "strength"
+	},
+	{
+		"id": 3,
+		"name": "Axe",
+		"image": "./heroes/axe.png",
+		"attr": "strength"
+	},
+	{
+		"id": 4,
+		"name": "Beastmaster",
+		"image": "./heroes/beastmaster.png",
+		"attr": "strength"
+	},
+	{
+		"id": 5,
+		"name": "Brewmaster",
+		"image": "./heroes/brewmaster.png",
+		"attr": "strength"
+	},
+	{
+		"id": 6,
+		"name": "Bristleback",
+		"image": "./heroes/bristleback.png",
+		"attr": "strength"
+	},
+	{
+		"id": 7,
+		"name": "Centaur Warrunner",
+		"image": "./heroes/Centaur Warrunner.png",
+		"attr": "strength"
+	},
+	{
+		"id": 8,
+		"name": "Chaos Knight",
+		"image": "./heroes/Chaos Knight.png",
+		"attr": "strength"
+	},
+	{
+		"id": 9,
+		"name": "Clockwerk",
+		"image": "./heroes/Clockwerk.png",
+		"attr": "strength"
+	},
+	{
+		"id": 10,
+		"name": "Dawnbreaker",
+		"image": "./heroes/Dawnbreaker.png",
+		"attr": "strength"
+	},
+	{
+		"id": 11,
+		"name": "Doom",
+		"image": "./heroes/Doom.png",
+		"attr": "strength"
+	},
+	{
+		"id": 12,
+		"name": "Dragon Knight",
+		"image": "./heroes/Dragon Knight.png",
+		"attr": "strength"
+	},
+	{
+		"id": 13,
+		"name": "Earth Spirit",
+		"image": "./heroes/Earth Spirit.png",
+		"attr": "strength"
+	},
+	{
+		"id": 14,
+		"name": "Earthshaker",
+		"image": "./heroes/Earthshaker.png",
+		"attr": "strength"
+	},
+	{
+		"id": 15,
+		"name": "Elder Titan",
+		"image": "./heroes/Elder Titan.png",
+		"attr": "strength"
+	},
+	{
+		"id": 16,
+		"name": "Huskar",
+		"image": "./heroes/Huskar.png",
+		"attr": "strength"
+	},
+	{
+		"id": 17,
+		"name": "Io",
+		"image": "./heroes/Io.png",
+		"attr": "strength"
+	},
+	{
+		"id": 18,
+		"name": "Kunkka",
+		"image": "./heroes/Kunkka.png",
+		"attr": "strength"
+	},
+	{
+		"id": 19,
+		"name": "Legion Commander",
+		"image": "./heroes/Legion Commander.png",
+		"attr": "strength"
+	},
+	{
+		"id": 20,
+		"name": "Lifestealer",
+		"image": "./heroes/Lifestealer.png",
+		"attr": "strength"
+	},
+	{
+		"id": 21,
+		"name": "Lycan",
+		"image": "./heroes/Lycan.png",
+		"attr": "strength"
+	},
+	{
+		"id": 22,
+		"name": "Magnus",
+		"image": "./heroes/Magnus.png",
+		"attr": "strength"
+	},
+	{
+		"id": 23,
+		"name": "Marci",
+		"image": "./heroes/Marci.png",
+		"attr": "strength"
+	},
+	{
+		"id": 24,
+		"name": "Mars",
+		"image": "./heroes/Mars.png",
+		"attr": "strength"
+	},
+	{
+		"id": 25,
+		"name": "Night Stalker",
+		"image": "./heroes/Night Stalker.png",
+		"attr": "strength"
+	},
+	{
+		"id": 26,
+		"name": "Omniknight",
+		"image": "./heroes/Omniknight.png",
+		"attr": "strength"
+	},
+	{
+		"id": 27,
+		"name": "Phoenix",
+		"image": "./heroes/Phoenix.png",
+		"attr": "strength"
+	},
+	{
+		"id": 28,
+		"name": "Pudge",
+		"image": "./heroes/Pudge.png",
+		"attr": "strength"
+	},
+	{
+		"id": 29,
+		"name": "Sand King",
+		"image": "./heroes/Sand King.png",
+		"attr": "strength"
+	},
+	{
+		"id": 30,
+		"name": "Slardar",
+		"image": "./heroes/Slardar.png",
+		"attr": "strength"
+	},
+	{
+		"id": 31,
+		"name": "Snapfire",
+		"image": "./heroes/Snapfire.png",
+		"attr": "strength"
+	},
+	{
+		"id": 32,
+		"name": "Spirit Breaker",
+		"image": "./heroes/Spirit Breaker.png",
+		"attr": "strength"
+	},
+	{
+		"id": 33,
+		"name": "Sven",
+		"image": "./heroes/Sven.png",
+		"attr": "strength"
+	},
+	{
+		"id": 34,
+		"name": "Tidehunter",
+		"image": "./heroes/Tidehunter.png",
+		"attr": "strength"
+	},
+	{
+		"id": 35,
+		"name": "Timbersaw",
+		"image": "./heroes/Timbersaw.png",
+		"attr": "strength"
+	},
+	{
+		"id": 36,
+		"name": "Tiny",
+		"image": "./heroes/Tiny.png",
+		"attr": "strength"
+	},
+	{
+		"id": 37,
+		"name": "Treant Protector",
+		"image": "./heroes/Treant Protector.png",
+		"attr": "strength"
+	},
+	{
+		"id": 38,
+		"name": "Tusk",
+		"image": "./heroes/Tusk.png",
+		"attr": "strength"
+	},
+	{
+		"id": 39,
+		"name": "Underlord",
+		"image": "./heroes/Underlord.png",
+		"attr": "strength"
+	},
+	{
+		"id": 40,
+		"name": "Undying",
+		"image": "./heroes/Undying.png",
+		"attr": "strength"
+	},
+	{
+		"id": 41,
+		"name": "Wraith King",
+		"image": "./heroes/Wraith King.png",
+		"attr": "strength"
+	},
+	{
+		"id": 42,
+		"name": "Anti-Mage",
+		"image": "./heroes/Anti-Mage.png",
+		"attr": "strength"
+	}
+]
