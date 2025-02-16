@@ -1,6 +1,7 @@
 import { useEffect } from 'react'
 import { RiArrowGoBackFill } from 'react-icons/ri'
 import { Link, useNavigate, useParams } from 'react-router'
+import { HeroAtr } from '../../components/hero-atr/HeroAtr'
 import heroes from '../../data/heroes.json'
 import { IHero } from '../../types/types'
 import styles from './Hero.module.css'
@@ -25,29 +26,23 @@ export const Hero = () => {
 			<Link to='/'>
 				<RiArrowGoBackFill className={styles.back} />
 			</Link>
+
 			<h2>{hero.name}</h2>
+
 			<img className={`icon ${styles.img}`} src={hero.image} alt={hero.name} />
+
 			{hero.attr === 'strength' && (
-				<p>
-					Основной атрибут: <span className={styles.red}>Сила</span>
-				</p>
+				<HeroAtr atr='Сила' classname={styles.red} />
 			)}
 			{hero.attr === 'agi' && (
-				<p>
-					Основной атрибут: <span className={styles.green}>Ловкость</span>
-				</p>
+				<HeroAtr atr='Ловкость' classname={styles.green} />
 			)}
 			{hero.attr === 'int' && (
-				<p>
-					Основной атрибут: <span className={styles.blue}>Интеллект</span>
-				</p>
+				<HeroAtr atr='Интеллект' classname={styles.blue} />
 			)}
 
 			<p className={styles.description}>
-				Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ipsum repellat
-				ut tenetur deleniti fugit dicta magnam, laudantium delectus nobis, eaque
-				aliquam, eius eligendi assumenda. Dignissimos enim veniam ipsam
-				voluptatem voluptates.
+				{hero.info}
 			</p>
 		</div>
 	)
