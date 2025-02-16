@@ -466,5 +466,263 @@
 		"name": "Weaver",
 		"image": "./heroes/Weaver.png",
 		"attr": "agi"
+	},
+	{
+		"id": 79,
+		"name": "Ancient Apparition",
+		"image": "./heroes/Ancient Apparition.png",
+		"attr": "int"
+	},
+	{
+		"id": 80,
+		"name": "Bane",
+		"image": "./heroes/Bane.png",
+		"attr": "int"
+	},
+	{
+		"id": 81,
+		"name": "Batrider",
+		"image": "./heroes/Batrider.png",
+		"attr": "int"
+	},
+	{
+		"id": 82,
+		"name": "Chen",
+		"image": "./heroes/Chen.png",
+		"attr": "int"
+	},
+	{
+		"id": 83,
+		"name": "Crystal Maiden",
+		"image": "./heroes/Crystal Maiden.png",
+		"attr": "int"
+	},
+	{
+		"id": 84,
+		"name": "Dark Seer",
+		"image": "./heroes/Dark Seer.png",
+		"attr": "int"
+	},
+	{
+		"id": 85,
+		"name": "Dark Willow",
+		"image": "./heroes/Dark Willow.png",
+		"attr": "int"
+	},
+	{
+		"id": 86,
+		"name": "Dazzle",
+		"image": "./heroes/Dazzle.png",
+		"attr": "int"
+	},
+	{
+		"id": 87,
+		"name": "Death Prophet",
+		"image": "./heroes/Death Prophet.png",
+		"attr": "int"
+	},
+	{
+		"id": 88,
+		"name": "Disruptor",
+		"image": "./heroes/Disruptor.png",
+		"attr": "int"
+	},
+	{
+		"id": 89,
+		"name": "Enchantress",
+		"image": "./heroes/Enchantress.png",
+		"attr": "int"
+	},
+	{
+		"id": 90,
+		"name": "Enigma",
+		"image": "./heroes/Enigma.png",
+		"attr": "int"
+	},
+	{
+		"id": 91,
+		"name": "Grimstroke",
+		"image": "./heroes/Grimstroke.png",
+		"attr": "int"
+	},
+	{
+		"id": 92,
+		"name": "Invoker",
+		"image": "./heroes/Invoker.png",
+		"attr": "int"
+	},
+	{
+		"id": 93,
+		"name": "Jakiro",
+		"image": "./heroes/Jakiro.png",
+		"attr": "int"
+	},
+	{
+		"id": 94,
+		"name": "Keeper of the Light",
+		"image": "./heroes/Keeper of the Light.png",
+		"attr": "int"
+	},
+	{
+		"id": 95,
+		"name": "Leshrac",
+		"image": "./heroes/Leshrac.png",
+		"attr": "int"
+	},
+	{
+		"id": 96,
+		"name": "Lich",
+		"image": "./heroes/Lich.png",
+		"attr": "int"
+	},
+	{
+		"id": 97,
+		"name": "Lina",
+		"image": "./heroes/Lina.png",
+		"attr": "int"
+	},
+	{
+		"id": 98,
+		"name": "Lion",
+		"image": "./heroes/Lion.png",
+		"attr": "int"
+	},
+	{
+		"id": 99,
+		"name": "Nature's Prophet",
+		"image": "./heroes/Nature's Prophet.png",
+		"attr": "int"
+	},
+	{
+		"id": 100,
+		"name": "Necrophos",
+		"image": "./heroes/Necrophos.png",
+		"attr": "int"
+	},
+	{
+		"id": 101,
+		"name": "Ogre Magi",
+		"image": "./heroes/Ogre Magi.png",
+		"attr": "int"
+	},
+	{
+		"id": 102,
+		"name": "Oracle",
+		"image": "./heroes/Oracle.png",
+		"attr": "int"
+	},
+	{
+		"id": 103,
+		"name": "Outworld Destroyer",
+		"image": "./heroes/Outworld Destroyer.png",
+		"attr": "int"
+	},
+	{
+		"id": 104,
+		"name": "Puck",
+		"image": "./heroes/Puck.png",
+		"attr": "int"
+	},
+	{
+		"id": 105,
+		"name": "Pugna",
+		"image": "./heroes/Pugna.png",
+		"attr": "int"
+	},
+	{
+		"id": 106,
+		"name": "Queen of Pain",
+		"image": "./heroes/Queen of Pain.png",
+		"attr": "int"
+	},
+	{
+		"id": 107,
+		"name": "Rubick",
+		"image": "./heroes/Rubick.png",
+		"attr": "int"
+	},
+	{
+		"id": 108,
+		"name": "Shadow Demon",
+		"image": "./heroes/Shadow Demon.png",
+		"attr": "int"
+	},
+	{
+		"id": 109,
+		"name": "Shadow Shaman",
+		"image": "./heroes/Shadow Shaman.png",
+		"attr": "int"
+	},
+	{
+		"id": 110,
+		"name": "Silencer",
+		"image": "./heroes/Silencer.png",
+		"attr": "int"
+	},
+	{
+		"id": 111,
+		"name": "Skywrath Mage",
+		"image": "./heroes/Skywrath Mage.png",
+		"attr": "int"
+	},
+	{
+		"id": 112,
+		"name": "Storm Spirit",
+		"image": "./heroes/Storm Spirit.png",
+		"attr": "int"
+	},
+	{
+		"id": 113,
+		"name": "Techies",
+		"image": "./heroes/Techies.png",
+		"attr": "int"
+	},
+	{
+		"id": 114,
+		"name": "Tinker",
+		"image": "./heroes/Tinker.png",
+		"attr": "int"
+	},
+	{
+		"id": 115,
+		"name": "Visage",
+		"image": "./heroes/Visage.png",
+		"attr": "int"
+	},
+	{
+		"id": 116,
+		"name": "Void Spirit",
+		"image": "./heroes/Void Spirit.png",
+		"attr": "int"
+	},
+	{
+		"id": 117,
+		"name": "Warlock",
+		"image": "./heroes/Warlock.png",
+		"attr": "int"
+	},
+	{
+		"id": 118,
+		"name": "Windranger",
+		"image": "./heroes/Windranger.png",
+		"attr": "int"
+	},
+	{
+		"id": 119,
+		"name": "Winter Wyvern",
+		"image": "./heroes/Winter Wyvern.png",
+		"attr": "int"
+	},
+	{
+		"id": 120,
+		"name": "Witch Doctor",
+		"image": "./heroes/Witch Doctor.png",
+		"attr": "int"
+	},
+	{
+		"id": 121,
+		"name": "Zeus",
+		"image": "./heroes/Zeus.png",
+		"attr": "int"
 	}
 ]
