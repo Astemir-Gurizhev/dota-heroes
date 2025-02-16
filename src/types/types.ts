@@ -16,6 +16,3 @@ export interface HeroAtrProps {
   atr: string; 
   src: string;
 }
-export interface IFilterState {
-  attr: string;
-}

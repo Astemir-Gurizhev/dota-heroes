@@ -1,5 +1,5 @@
 import { createSlice, PayloadAction } from '@reduxjs/toolkit'
-import { IFilterState, IHero } from '../../types/types'
+import { IHero } from '../../types/types'
 
 const initialState: IHero = {
 	id: '',
@@ -19,7 +19,6 @@ const filterSlice = createSlice({
 
 export const { setAttrFilter } = filterSlice.actions
 
-export const selectAttrFilter = (state: { filter: IFilterState }) =>
-	state.FilterSlice.attr
+export const selectAttrFilter = (state: { filter: IHero }) => state.filter.attr
 
 export default filterSlice.reducer
