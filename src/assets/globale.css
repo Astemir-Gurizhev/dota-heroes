@@ -33,9 +33,7 @@ aside {
 body {
 	background: url('../../public/background.png');
 	background-position: center;
-	background-repeat: no-repeat;
 	cursor: url('../../public/cursor.png'), auto;
-	width: 100vw;
 	height: 100vh;
 	padding-inline: 20px;
 	font-family: 'Golos Text', serif;

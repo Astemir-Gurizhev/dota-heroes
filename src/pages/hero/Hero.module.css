@@ -8,6 +8,7 @@
 	justify-content: center;
 	align-items: center;
 	gap: 30px;
+	padding-bottom: 40px;
 }
 .back {
 	position: absolute;
@@ -34,12 +35,12 @@
 	font-size: 18px;
 }
 .green {
-	color: green;
+	color: rgb(115, 249, 178);
 	font-weight: bold;
 	font-size: 18px;
 }
 .blue {
-	color: rgb(0, 119, 255);
+	color: rgb(0, 208, 255);
 	font-weight: bold;
 	font-size: 18px;
 }

@@ -37,13 +37,13 @@ export const Hero = () => {
 			/>
 
 			{hero.attr === 'strength' && (
-				<HeroAtr atr='Сила' classname={styles.red} />
+				<HeroAtr src='./strength.png' atr='Сила' classname={styles.red} />
 			)}
 			{hero.attr === 'agi' && (
-				<HeroAtr atr='Ловкость' classname={styles.green} />
+				<HeroAtr src='./agi.png' atr='Ловкость' classname={styles.green} />
 			)}
 			{hero.attr === 'int' && (
-				<HeroAtr atr='Интеллект' classname={styles.blue} />
+				<HeroAtr src='./int.png' atr='Интеллект' classname={styles.blue} />
 			)}
 
 			<p className={styles.description}>{hero.info}</p>

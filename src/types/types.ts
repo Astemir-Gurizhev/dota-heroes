@@ -8,8 +8,11 @@ export interface IHero {
 export interface HeroesAtrProps {
   array: IHero[]; 
   className?: string; 
+  title?: string;
+  icon?: string;
 }
 export interface HeroAtrProps {
   classname: string; 
   atr: string; 
+  src: string;
 }
