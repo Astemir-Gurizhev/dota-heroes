@@ -7,6 +7,7 @@ export const HeroesAtr = ({ array, className }: HeroesAtrProps) => {
 			{array.map(item => (
 				<Link to={item.name}>
 					<img
+						draggable='false'
 						key={item.id}
 						className={`icon ${styles.heroIcon}`}
 						src={item.image}

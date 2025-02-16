@@ -29,7 +29,12 @@ export const Hero = () => {
 
 			<h2>{hero.name}</h2>
 
-			<img className={`icon ${styles.img}`} src={hero.image} alt={hero.name} />
+			<img
+				draggable='false'
+				className={`icon ${styles.img}`}
+				src={hero.image}
+				alt={hero.name}
+			/>
 
 			{hero.attr === 'strength' && (
 				<HeroAtr atr='Сила' classname={styles.red} />
@@ -41,9 +46,7 @@ export const Hero = () => {
 				<HeroAtr atr='Интеллект' classname={styles.blue} />
 			)}
 
-			<p className={styles.description}>
-				{hero.info}
-			</p>
+			<p className={styles.description}>{hero.info}</p>
 		</div>
 	)
 }
