@@ -1,11 +1,19 @@
+import { Link } from 'react-router'
 import { HeroesAtrProps } from '../../types/types'
-import styles from "./HeroesAtr.module.css"
+import styles from './HeroesAtr.module.css'
 export const HeroesAtr = ({ array, className }: HeroesAtrProps) => {
-  return (
-    <div className={className}>
-      {array.map(item => (
-        <img key={item.id} className={`icon ${styles.heroIcon}`} src={item.image} alt={item.name} />
-      ))}
-    </div>
-  );
-};
+	return (
+		<div className={className}>
+			{array.map(item => (
+				<Link to={item.name}>
+					<img
+						key={item.id}
+						className={`icon ${styles.heroIcon}`}
+						src={item.image}
+						alt={item.name}
+					/>
+				</Link>
+			))}
+		</div>
+	)
+}
