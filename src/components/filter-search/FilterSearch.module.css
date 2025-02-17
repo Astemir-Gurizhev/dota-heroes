@@ -11,6 +11,7 @@
 	background: rgba(0, 0, 0, 0);
 	color: #fff;
 	font-size: 18px;
+	cursor: url('./cursor.png'), auto;
 }
 .searchIcon {
 	color: white;

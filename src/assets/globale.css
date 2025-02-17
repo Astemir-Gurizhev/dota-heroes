@@ -31,16 +31,16 @@ aside {
 
 
 body {
-	background: url('../../public/background.png');
+	background: url('./background.png');
 	background-position: center;
-	cursor: url('../../public/cursor.png'), auto;
+	cursor: url('./cursor.png'), auto;
 	height: 100vh;
 	padding-inline: 20px;
 	font-family: 'Golos Text', serif;
 }
 
 a {
-	cursor: url('../../public/cursor.png'), auto;
+	cursor: url('./cursor.png'), auto;
 }
 .icon {
 	transition: 0.2s;
