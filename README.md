@@ -1,29 +1,3 @@
-<style>
-        body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
-            margin: 20px;
-            padding: 20px;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-        h1, h2, h3 {
-            color: #2c3e50;
-        }
-        code {
-            background-color: #eaeaea;
-            padding: 2px 4px;
-            border-radius: 4px;
-        }
-        pre {
-            background-color: #eaeaea;
-            padding: 10px;
-            border-radius: 4px;
-            overflow-x: auto;
-        }
-</style>
-
-<body>
 
 <h1>Dota 2 Heroes</h1>
 
@@ -42,13 +16,12 @@
 
 <h3>Предварительные требования</h3>
 <ul>
-    <li>Node.js (версия 14 или выше)</li>
     <li>npm или yarn</li>
 </ul>
 
 <h3>Установка</h3>
 <pre><code>git clone https://github.com/ваше_имя_пользователя/dota2-heroes.git
-cd dota2-heroes
+cd dota-heroes
 npm install
 # или
 yarn install</code></pre>
