@@ -1,17 +1,9 @@
-import React from 'react'
 import { useDispatch } from 'react-redux'
 import { setAttrFilter } from '../../redux/slices/filterSlice'
 import styles from './FilterAtr.module.css'
+import { FilterAtrProps } from '../../types/types'
 
-interface FilterAtrProps {
-	activeAttr: string
-	setActiveAttr: (attr: string) => void
-}
-
-export const FilterAtr: React.FC<FilterAtrProps> = ({
-	activeAttr,
-	setActiveAttr,
-}) => {
+export const FilterAtr = ({ activeAttr, setActiveAttr }: FilterAtrProps) => {
 	const dispatch = useDispatch()
 
 	const handleAttrClick = (attr: string) => {
@@ -26,7 +18,7 @@ export const FilterAtr: React.FC<FilterAtrProps> = ({
 
 	return (
 		<div className={styles.filterAtr}>
-			<p>Сортировка героев по атрибуту:</p>
+			<p>Сортировка по атрибуту:</p>
 			<img
 				onClick={() => handleAttrClick('strength')}
 				className={activeAttr === 'strength' ? styles.activeIcon : ''}

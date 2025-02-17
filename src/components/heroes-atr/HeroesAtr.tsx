@@ -9,8 +9,8 @@ export const HeroesAtr = ({
 }: HeroesAtrProps) => {
 	return (
 		<div className={styles.table}>
-			<div className={styles.atr}>
-				<img src={icon} alt='icon' />
+			<div className={icon ? styles.atr : ''}>
+				{icon ? <img src={icon} alt='icon' /> : null}
 				<p className={styles.title}>{title}</p>
 			</div>
 			<div className={className}>

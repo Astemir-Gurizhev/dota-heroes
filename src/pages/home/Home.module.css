@@ -2,7 +2,12 @@
 	display: flex;
 	justify-content: space-between;
 	gap: 40px;
-	
+}
+.filteredHeroes {
+	display: flex;
+	justify-content: center;
+	flex-wrap: wrap;
+	gap: 40px;
 }
 .heroesAtr {
 	display: flex;

@@ -16,3 +16,7 @@ export interface HeroAtrProps {
   atr: string; 
   src: string;
 }
+export interface FilterAtrProps {
+	activeAttr: string
+	setActiveAttr: (attr: string) => void
+}

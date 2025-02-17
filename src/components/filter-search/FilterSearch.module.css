@@ -1,0 +1,21 @@
+.filterSearch {
+	border-radius: 10px;
+	background: rgba(0, 0, 0, 0.3);
+	padding: 15px;
+	transition: 0.2s;
+	display: flex;
+	align-items: center;
+	gap: 10px;
+}
+.inputFilter {
+	background: rgba(0, 0, 0, 0);
+	color: #fff;
+	font-size: 18px;
+}
+.searchIcon {
+	color: white;
+	font-size: 20px;
+}
+.filterSearch:hover {
+	background: rgba(15, 15, 15, 0.3);
+}
