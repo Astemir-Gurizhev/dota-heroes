@@ -30,10 +30,10 @@ aside {
 }
 
 
-#root {
-	background: url('./background.png');
+body {
+	background: url('./background.png') !important;
 	background-position: center;
-	cursor: url('./cursor.png'), auto;
+	cursor: url('./cursor.png'), auto !important;
 	height: 100vh;
 	padding-inline: 20px;
 	font-family: 'Golos Text', serif;
