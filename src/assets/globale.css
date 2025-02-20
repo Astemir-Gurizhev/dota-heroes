@@ -31,7 +31,7 @@ aside {
 
 
 body {
-	background: black;
+	background: url('/background.png');
 	background-position: center;
 	cursor: url('/cursor.png'), auto;
 	height: 100vh;
