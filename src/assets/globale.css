@@ -30,7 +30,7 @@ aside {
 }
 
 
-body {
+.root {
 	background: url('./background.png');
 	background-position: center;
 	cursor: url('./cursor.png'), auto;
